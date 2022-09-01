@@ -1,7 +1,7 @@
 <html>
   <body style="font-family:arial;">
   <header style="background-color:black; text-align:center; color:blue">
-  <img src="file:///C:/Users/ThinkPadT490/Pictures/Saved%20Pictures/Nimet%C3%B6n.png">
+  <img src="">
     <h1 style="color:blue">Ace Combat 7: Skies Unknown</h1>
     </header>
     <img src="https://i0.wp.com/www.pcmgames.com/wp-content/uploads/2018/09/ACE-COMBAT-7-SKIES-UNKNOWN-DB2.jpg?fit=1920,1080&ssl=1">
