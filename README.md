@@ -1,5 +1,5 @@
 <html>
-  <body style="font-family:sans-serif;">
+  <body style="font-family:arial;">
   <header style="background-color:black; text-align:center; color:blue">
     <h2 style="text-align:center;color:blue;">Ace Combat 7: Skies Unknown</h2>
     </header>
